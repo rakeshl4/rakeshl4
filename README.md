@@ -2,23 +2,29 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 **Principal AI Consultant** with **20+ years** of experience in software engineering, specializing in AI solutions and cloud architecture. I help organizations unlock the power of AI through strategic consulting, mentoring, and hands-on development.
 
-### 🎯 What I Do
+## Let's Connect
 
-- 🤖 **AI Strategy & Implementation** - Designing and deploying intelligent systems
-- ☁️ **Cloud Architecture** - Building scalable solutions on Azure
-- 👥 **Technical Leadership** - Mentoring teams and driving innovation
-- 🎤 **Speaking & Training** - Sharing knowledge at conferences and workshops
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakeshl/)
+[![Website](https://img.shields.io/badge/BinaryTrails-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://binarytrails.com/)
+[![GitHub](https://img.shields.io/badge/AI_Account-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binarytrails-ai)
 
-### 🛠️ Tech Stack
+### What I Do
+
+- **AI Strategy & Implementation** - Designing and deploying intelligent systems  
+- **Cloud Architecture** - Building scalable solutions on Azure  
+- **Technical Leadership** - Mentoring teams and driving innovation  
+- **Speaking & Training** - Sharing knowledge at conferences and workshops
+
+### Tech Stack
 
 **Languages & Frameworks:**
 
 ```
-C# • .NET • React • TypeScript • JavaScript • Python
+C# • .NET • C# • React • TypeScript • JavaScript • Python
 ```
 
 **AI & Cloud:**
@@ -31,30 +37,20 @@ Azure Functions • Container Apps • Cognitive Services • AI Foundry
 **Daily Tools:**
 
 ```
-Visual Studio Code • Azure DevOps • GitHub • Docker • Kubernetes
+Visual Studio Code • AI Foundry
 ```
 
-### 🌱 Currently Exploring
+### Currently Exploring
 
-- 🧠 **AI Agents & Multi-Agent Workflows**
-- 🔧 **Advanced Prompt Engineering Techniques**
-- 🏗️ **Azure AI Foundry & Next-Gen AI Tools**
-- � **AI Performance Evaluation & Optimization**
-
----
-
-## 🤝 Let's Connect
-
-💬 **Ask me about:** Full-stack development, AI adoption strategies, cloud architecture, or anything tech!
-
-📫 **Reach out:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakeshl/)
-[![Website](https://img.shields.io/badge/BinaryTrails-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://binarytrails.com/)
-[![GitHub](https://img.shields.io/badge/AI_Account-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binarytrails-ai)
+- AI Agents & Multi-Agent Workflows
+- Advanced Prompt Engineering Techniques
+- Azure AI Foundry & AI Tools
+- AI Performance Evaluation & Optimization
+- Coding Assistants & Developer Productivity Tools
 
 ---
 
-## � Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
