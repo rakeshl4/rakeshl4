@@ -6,8 +6,6 @@
 
 **Principal AI Consultant** with **20+ years** of experience in software engineering, specializing in AI solutions and cloud architecture. I help organizations unlock the power of AI through strategic consulting, mentoring, and hands-on development.
 
-## Let's Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakeshl/)
 [![Website](https://img.shields.io/badge/BinaryTrails-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://binarytrails.com/)
 [![GitHub](https://img.shields.io/badge/AI_Account-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binarytrails-ai)
@@ -37,7 +35,7 @@ Azure Functions • Container Apps • Cognitive Services • AI Foundry
 **Daily Tools:**
 
 ```
-Visual Studio Code • AI Foundry
+Visual Studio Code
 ```
 
 ### Currently Exploring
