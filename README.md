@@ -7,7 +7,7 @@
 **Principal AI Consultant** with **20+ years** of experience in software engineering, specializing in AI solutions and cloud architecture. I help organizations unlock the power of AI through strategic consulting, mentoring, and hands-on development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakeshl/)
-[![Blog](https://img.shields.io/badge/BinaryTrails-FF6B6B?style=for-the-badge&logoColor=white)](https://binarytrails.com/)
+[![Blog](https://img.shields.io/badge/BinaryTrails-87CEEB?style=for-the-badge&logoColor=white)](https://binarytrails.com/)
 
 ### What I Do
 
@@ -82,16 +82,26 @@ Visual Studio Code • GitHub Copilot
 **2025** - [**AgentConf 2025: From Bots to Brains**](https://www.linkedin.com/posts/rakeshl_exciting-news-i-am-speaking-at-agentconf-activity-7335443449044717574-a6ft?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATGCL4BrlFisSf0O-XVgatKCoF-DSBRKUU)
 > *Patterns for Building Intelligent AI Agents*
 
+**2025** - [**App-in-a-Day Workshop**](https://www.linkedin.com/posts/rakeshl_it-was-an-absolute-pleasure-co-hosting-activity-7312437841798541312-MmWb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATGCL4BrlFisSf0O-XVgatKCoF-DSBRKUU)
+> *Building intelligent applications with the right AI tools*
+
+**2025** - [**GitHub Copilot hands-on workshop**](https://www.linkedin.com/posts/activity-7308242420998053888-MDjY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATGCL4BrlFisSf0O-XVgatKCoF-DSBRKUU)
+> *AI-assisted coding using GitHubb Copilot*
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshl4&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshl4&show_icons=true&theme=default&count_private=true&hide=c" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshl4&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshl4&theme=default&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshl4&theme=default" alt="GitHub Streak" />
 </div>
 
 ---
