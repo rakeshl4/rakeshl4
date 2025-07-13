@@ -35,7 +35,7 @@ Azure Functions • Container Apps • Cognitive Services • AI Foundry
 **Daily Tools:**
 
 ```
-Visual Studio Code
+Visual Studio Code • GitHub Copilot
 ```
 
 ### Currently Exploring
@@ -59,24 +59,24 @@ Visual Studio Code
 
 ## 📚 Latest Tech Articles
 
-- 📖 [**Creating an AI assistant with your own data**](https://binarytrails.com/posts/2024/04/26/rag-pattern)
-  > *Implementing RAG patterns for personalized AI experiences*
+- [**Creating an AI assistant with your own data**](https://binarytrails.com/posts/2024/04/26/rag-pattern)  
+    > *Implementing RAG patterns for personalized AI experiences*
 
-- 🔧 [**Integrating external tools with Large Language Models**](https://binarytrails.com/posts/2024/06/02/virtual-assistants)
-  > *Building powerful virtual assistants with tool integration*
+- [**Integrating external tools with Large Language Models**](https://binarytrails.com/posts/2024/06/02/virtual-assistants)  
+    > *Building powerful virtual assistants with tool integration*
 
-- 🗄️ [**Extending RAG with database tools**](https://binarytrails.com/posts/2025/05/rag-with-tools)
-  > *Advanced RAG techniques for database interactions*
+- [**Extending RAG with database tools**](https://binarytrails.com/posts/2025/05/rag-with-tools)  
+    > *Advanced RAG techniques for database interactions*
 
-- ⚡ [**Extending RAG with Dynamic SQL Queries**](https://binarytrails.com/posts/2025/05/rag-with-dynamic-sql-tool)
-  > *Dynamic query generation for intelligent data retrieval*
+- [**Extending RAG with Dynamic SQL Queries**](https://binarytrails.com/posts/2025/05/rag-with-dynamic-sql-tool)  
+    > *Dynamic query generation for intelligent data retrieval*
 
-- 🎯 [**Are Your AI Answers Good Enough?**](https://binarytrails.com/posts/2025/05/evaluate_prompt_responses)
-  > *Strategies for evaluating and improving AI response quality*
+- [**Are Your AI Answers Good Enough?**](https://binarytrails.com/posts/2025/05/evaluate_prompt_responses)  
+    > *Strategies for evaluating and improving AI response quality*
 
 ---
 
-## 🎤 Speaking & Conferences
+## Speaking & Conferences
 
 ### 🌟 Recent Talks
 
