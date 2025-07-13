@@ -7,8 +7,7 @@
 **Principal AI Consultant** with **20+ years** of experience in software engineering, specializing in AI solutions and cloud architecture. I help organizations unlock the power of AI through strategic consulting, mentoring, and hands-on development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakeshl/)
-[![Website](https://img.shields.io/badge/BinaryTrails-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://binarytrails.com/)
-[![GitHub](https://img.shields.io/badge/AI_Account-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/binarytrails-ai)
+[![Blog](https://img.shields.io/badge/BinaryTrails-FF6B6B?style=for-the-badge&logoColor=white)](https://binarytrails.com/)
 
 ### What I Do
 
@@ -59,20 +58,20 @@ Visual Studio Code • GitHub Copilot
 
 ## 📚 Latest Tech Articles
 
-- [**Creating an AI assistant with your own data**](https://binarytrails.com/posts/2024/04/26/rag-pattern)  
-    > *Implementing RAG patterns for personalized AI experiences*
-
-- [**Integrating external tools with Large Language Models**](https://binarytrails.com/posts/2024/06/02/virtual-assistants)  
-    > *Building powerful virtual assistants with tool integration*
-
-- [**Extending RAG with database tools**](https://binarytrails.com/posts/2025/05/rag-with-tools)  
-    > *Advanced RAG techniques for database interactions*
+- [**Are Your AI Answers Good Enough?**](https://binarytrails.com/posts/2025/05/evaluate_prompt_responses)  
+    > *Strategies for evaluating and improving AI response quality*
 
 - [**Extending RAG with Dynamic SQL Queries**](https://binarytrails.com/posts/2025/05/rag-with-dynamic-sql-tool)  
     > *Dynamic query generation for intelligent data retrieval*
 
-- [**Are Your AI Answers Good Enough?**](https://binarytrails.com/posts/2025/05/evaluate_prompt_responses)  
-    > *Strategies for evaluating and improving AI response quality*
+- [**Extending RAG with database tools**](https://binarytrails.com/posts/2025/05/rag-with-tools)  
+    > *Advanced RAG techniques for database interactions*
+
+- [**Integrating external tools with Large Language Models**](https://binarytrails.com/posts/2024/06/02/virtual-assistants)  
+    > *Building powerful virtual assistants with tool integration*
+
+- [**Creating an AI assistant with your own data**](https://binarytrails.com/posts/2024/04/26/rag-pattern)  
+    > *Implementing RAG patterns for personalized AI experiences*
 
 ---
 
