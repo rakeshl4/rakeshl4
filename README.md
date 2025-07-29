@@ -46,6 +46,9 @@
 
 ## 📚 Latest Tech Articles
 
+- [**Building Smarter AI Workflows Using Multi-Agent Solutions**](https://binarytrails.com/posts/2025/07/characteristics_of_multiagent_soln)  
+    > *Key characteristics and patterns for designing scalable multi-agent systems*
+
 - [**Are Your AI Answers Good Enough?**](https://binarytrails.com/posts/2025/05/evaluate_prompt_responses)  
     > *Strategies for evaluating and improving AI response quality*
 
@@ -66,6 +69,9 @@
 ## Speaking & Conferences
 
 ### 🌟 Recent Talks
+
+**2025** - [**Melb.NET Meetup: Inside the AI Toolbox**](https://www.meetup.com/melb-net-meetup/events/309998377/?_xtd=gqFyqTE4NjQwNTA2NaFwo2FwaQ%253D%253D&from=ref)
+> *Patterns, Tools, and Guardrails for AI Development*
 
 **2025** - [**AgentConf 2025: From Bots to Brains**](https://www.linkedin.com/posts/rakeshl_exciting-news-i-am-speaking-at-agentconf-activity-7335443449044717574-a6ft?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATGCL4BrlFisSf0O-XVgatKCoF-DSBRKUU)
 > *Patterns for Building Intelligent AI Agents*
