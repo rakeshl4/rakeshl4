@@ -46,14 +46,20 @@
 
 ## 📚 Latest Tech Articles
 
-- [**Building and Testing MCP in VS Code**](https://binarytrails.com/posts/2025/09/building_testing_mcp_vscode)  
-    > *Complete guide to Model Context Protocol development and testing in Visual Studio Code*
+- [**Building Secure Approval Workflows with Microsoft Agent Framework and AG-UI**](https://binarytrails.com/posts/2025/12/approval_workflow_using_maf)  
+    > *Implementing secure approval workflows for AI agents with sensitive tool operations*
 
-- [**Streamlining Development with GitHub Workflows**](https://binarytrails.com/posts/2025/09/github_workflow)  
-    > *Automation strategies and best practices for GitHub Actions and workflows*
+- [**Working with Structured Data in AI Agents**](https://binarytrails.com/posts/2025/11/working_with_structured_data)  
+    > *Using JSON Schema to enforce structured outputs in AI agents*
 
-- [**AI Foundry Agent MCP Tools**](https://binarytrails.com/posts/2025/09/aifoundryagent_mcp_tools)  
-    > *Leveraging Model Context Protocol tools for AI Foundry agent development*
+- [**Supercharging AI Agents with MCP Tools**](https://binarytrails.com/posts/2025/09/aifoundryagent_mcp_tools)  
+    > *Integrating Model Context Protocol tools with Azure AI Foundry Agents*
+
+- [**My Development Workflow using GitHub Copilot**](https://binarytrails.com/posts/2025/09/github_workflow)  
+    > *Strategies and tips for maximizing productivity with GitHub Copilot*
+
+- [**Building MCP Servers with GitHub Copilot**](https://binarytrails.com/posts/2025/09/building_testing_mcp_vscode)  
+    > *Creating custom MCP servers and testing them with VS Code*
 
 - [**Building Smarter AI Workflows Using Multi-Agent Solutions**](https://binarytrails.com/posts/2025/07/characteristics_of_multiagent_soln)  
     > *Key characteristics and patterns for designing scalable multi-agent systems*
@@ -79,8 +85,14 @@
 
 ### 🌟 Recent Talks
 
+**2025** - [**Microsoft Agent Framework Explained: Smarter Workflows, Better Tools, Bigger Demo**](https://www.youtube.com/watch?v=kmsArgSWQ4k)
+> *Hands-on look at what’s new in 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐀𝐠𝐞𝐧𝐭 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤*
+
 **2025** - [**DDD By Night**](https://www.meetup.com/ddd-melbourne-by-night/events/311769987/?slug=ddd-melbourne-by-night&eventId=307706775&isFirstPublish=true)
 > *Evolution of AI Agents*
+
+**2025** - [**New Breakpoint: S5 Ep4 | Agents, Orchestration & MCP: Peeking Inside the AI Toolkit**](https://www.youtube.com/watch?v=AAe_8eIvra0)
+> *Exploring AI Agents, Orchestration, and Model Context Protocol (MCP)*
 
 **2025** - [**Melb.NET Meetup: Inside the AI Toolbox**](https://www.meetup.com/melb-net-meetup/events/309998377/?_xtd=gqFyqTE4NjQwNTA2NaFwo2FwaQ%253D%253D&from=ref)
 > *Patterns, Tools, and Guardrails for AI Development*
