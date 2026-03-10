@@ -46,6 +46,9 @@
 
 ## 📚 Latest Tech Articles
 
+- [**Long-Term Memory for AI Agents - Building Personalized Experiences with Microsoft Agent Framework**](https://binarytrails.com/posts/2026/02/maf_context_memory)  
+    > *Implementing long-term memory for AI agents to build personalized experiences*
+
 - [**Building Secure Approval Workflows with Microsoft Agent Framework and AG-UI**](https://binarytrails.com/posts/2025/12/approval_workflow_using_maf)  
     > *Implementing secure approval workflows for AI agents with sensitive tool operations*
 
@@ -91,7 +94,7 @@
 **2026** - [**From Bots to Brains: Patterns for Building Intelligent AI Agents**](https://www.linkedin.com/feed/update/urn:li:activity:7430860525347045376/)
 > *Hands-on workshop on building action-taking AI agents with tools, memory, and goal-oriented thinking*
 
-**2025** - [**Microsoft Agent Framework Explained: Smarter Workflows, Better Tools, Bigger Demo**](https://www.youtube.com/watch?v=kmsArgSWQ4k)
+**2025** - [**New Breakpoint: S5 Ep7 | Microsoft Agent Framework Explained: Smarter Workflows, Better Tools, Bigger Demo**](https://www.youtube.com/watch?v=kmsArgSWQ4k)
 > *Hands-on look at what’s new in 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐀𝐠𝐞𝐧𝐭 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤*
 
 **2025** - [**DDD By Night**](https://www.meetup.com/ddd-melbourne-by-night/events/311769987/?slug=ddd-melbourne-by-night&eventId=307706775&isFirstPublish=true)
