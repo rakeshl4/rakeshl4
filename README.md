@@ -85,6 +85,12 @@
 
 ### 🌟 Recent Talks
 
+**2026** - [**Melb.NET Meetup: Practical Introduction to the Microsoft Agent Framework**](https://www.meetup.com/melb-net-meetup/events/313598778/?utm_version=v2&member_id=220238397)
+> *Building AI agents using the Microsoft Agent Framework - hands-on session with live examples*
+
+**2026** - [**From Bots to Brains: Patterns for Building Intelligent AI Agents**](https://www.linkedin.com/feed/update/urn:li:activity:7430860525347045376/)
+> *Hands-on workshop on building action-taking AI agents with tools, memory, and goal-oriented thinking*
+
 **2025** - [**Microsoft Agent Framework Explained: Smarter Workflows, Better Tools, Bigger Demo**](https://www.youtube.com/watch?v=kmsArgSWQ4k)
 > *Hands-on look at what’s new in 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐀𝐠𝐞𝐧𝐭 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤*
 
