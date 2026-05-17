@@ -1,14 +1,17 @@
-# Hi there, I'm Rakesh! 👋
+<h1 align="center">Rakesh L</h1>
+<p align="center"><i>Principal AI Consultant · Helping organisations ship production AI</i></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rakeshl/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://binarytrails.com/"><img src="https://img.shields.io/badge/BinaryTrails-87CEEB?style=for-the-badge&logoColor=white" alt="Blog"></a>
+  <a href="mailto:rakeshL84@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
 ## About Me
 
 **Principal AI Consultant** with **20+ years** of experience in software engineering, specializing in AI solutions and cloud architecture. I help organizations unlock the power of AI through strategic consulting, mentoring, and hands-on development.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakeshl/)
-[![Blog](https://img.shields.io/badge/BinaryTrails-87CEEB?style=for-the-badge&logoColor=white)](https://binarytrails.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakeshL84@outlook.com)
 
 ### What I Do
 
@@ -19,32 +22,22 @@
 
 ### Tech Stack
 
-**Languages & Frameworks:**  `C#` ``.NET`` `React` `TypeScript` `JavaScript` `Python`
+**Languages & Frameworks:**  `C#` `.NET` `React` `TypeScript` `JavaScript` `Python`
 
-**AI & Cloud:** `Azure` `AI Agents` `OpenAI` `Prompt Engineering` `Intelligent Applications` `Multi-Agent Systems` `Cognitive Services` `AI Foundry`
+**AI & Cloud:** `Azure AI Foundry` `Microsoft Agent Framework` `OpenAI` `Prompt Engineering` `Multi-Agent Systems` `Model Context Protocol (MCP)` `Cognitive Services`
 
-**Daily Tools:** `Visual Studio Code` `GitHub Copilot`
+**Daily Tools:** `Visual Studio Code` `GitHub Copilot` `AI Toolkit for VS Code`
 
 ### Currently Exploring
 
-- AI Agents & Multi-Agent Workflows
-- Advanced Prompt Engineering Techniques
-- Azure AI Foundry & AI Tools
-- AI Performance Evaluation & Optimization
-- Coding Assistants & Developer Productivity Tools
+- Production-ready agent architectures and deployment patterns
+- Agent orchestration and multi-agent coordination strategies
+- Memory systems for AI agents (episodic, semantic, and contextual)
+- Tool integration and approval workflows for secure agent operations
 
 ---
 
-## Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [🤖 AI Agent Workshop](https://github.com/binarytrails-ai/aiagent-workshop) | Comprehensive workshop on building intelligent AI agents | AI Agents, Multi-Agent Systems |
-| [💡 AI Examples](https://github.com/rakeshl4/ai-examples) | Collection of practical AI implementation examples | OpenAI, Azure AI, .NET |
-
----
-
-## 📚 Latest Tech Articles
+## Latest Articles
 
 - [**Long-Term Memory for AI Agents - Building Personalized Experiences with Microsoft Agent Framework**](https://binarytrails.com/posts/2026/02/maf_context_memory)  
     > *Implementing long-term memory for AI agents to build personalized experiences*
@@ -61,80 +54,66 @@
 - [**My Development Workflow using GitHub Copilot**](https://binarytrails.com/posts/2025/09/github_workflow)  
     > *Strategies and tips for maximizing productivity with GitHub Copilot*
 
-- [**Building MCP Servers with GitHub Copilot**](https://binarytrails.com/posts/2025/09/building_testing_mcp_vscode)  
-    > *Creating custom MCP servers and testing them with VS Code*
-
-- [**Building Smarter AI Workflows Using Multi-Agent Solutions**](https://binarytrails.com/posts/2025/07/characteristics_of_multiagent_soln)  
-    > *Key characteristics and patterns for designing scalable multi-agent systems*
-
-- [**Are Your AI Answers Good Enough?**](https://binarytrails.com/posts/2025/05/evaluate_prompt_responses)  
-    > *Strategies for evaluating and improving AI response quality*
-
-- [**Extending RAG with Dynamic SQL Queries**](https://binarytrails.com/posts/2025/05/rag-with-dynamic-sql-tool)  
-    > *Dynamic query generation for intelligent data retrieval*
-
-- [**Extending RAG with database tools**](https://binarytrails.com/posts/2025/05/rag-with-tools)  
-    > *Advanced RAG techniques for database interactions*
-
-- [**Integrating external tools with Large Language Models**](https://binarytrails.com/posts/2024/06/02/virtual-assistants)  
-    > *Building powerful virtual assistants with tool integration*
-
-- [**Creating an AI assistant with your own data**](https://binarytrails.com/posts/2024/04/26/rag-pattern)  
-    > *Implementing RAG patterns for personalized AI experiences*
+→ [See all articles on binarytrails.com](https://binarytrails.com)
 
 ---
 
 ## Speaking & Conferences
 
-### 🌟 Recent Talks
+### 2026
 
-**2026** - [**Microsoft AI Genius 4 | Getting Started with Microsoft Agent Framework: Build Practical AI Agents**](https://developer.microsoft.com/en-us/reactor/events/26935/)
-> *Hands-on introduction to the Microsoft Agent Framework - building practical AI agents that can reason, take actions, and integrate with real systems*
+- [**Microsoft AI Genius 4 | Getting Started with Microsoft Agent Framework: Build Practical AI Agents**](https://developer.microsoft.com/en-us/reactor/events/26935/)
+  > *Hands-on introduction to the Microsoft Agent Framework - building practical AI agents that can reason, take actions, and integrate with real systems*
 
-**2026** -  [**Agents That Remember: Designing Memory-Driven AI Systems**](https://www.linkedin.com/posts/rakeshl_agentcamp-perth-agentcamp-ugcPost-7456645631919677440-6BoG/)
-> *Practical workshop on designing memory-driven AI systems - exploring short-term, long-term, episodic, and semantic memory patterns for building agents that maintain context and adapt over time*
+- [**Agents That Remember: Designing Memory-Driven AI Systems**](https://www.linkedin.com/posts/rakeshl_agentcamp-perth-agentcamp-ugcPost-7456645631919677440-6BoG/)
+  > *Practical workshop on designing memory-driven AI systems - exploring short-term, long-term, episodic, and semantic memory patterns for building agents that maintain context and adapt over time*
 
-**2026** - [**Melb.NET Meetup | Practical Introduction to the Microsoft Agent Framework**](https://www.meetup.com/melb-net-meetup/events/313598778/?utm_version=v2&member_id=220238397)
-> *Building AI agents using the Microsoft Agent Framework - hands-on session with live examples*
+- [**Melb.NET Meetup | Practical Introduction to the Microsoft Agent Framework**](https://www.meetup.com/melb-net-meetup/events/313598778/?utm_version=v2&member_id=220238397)
+  > *Building AI agents using the Microsoft Agent Framework - hands-on session with live examples*
 
-**2026** - [**DDD Melbourne | From Bots to Brains: Patterns for Building Intelligent AI Agents**](https://www.linkedin.com/feed/update/urn:li:activity:7430860525347045376/)
-> *Hands-on workshop on building action-taking AI agents with tools, memory, and goal-oriented thinking*
+- [**DDD Melbourne | From Bots to Brains: Patterns for Building Intelligent AI Agents**](https://www.linkedin.com/feed/update/urn:li:activity:7430860525347045376/)
+  > *Hands-on workshop on building action-taking AI agents with tools, memory, and goal-oriented thinking*
 
-**2025** - [**New Breakpoint: S5 Ep7 | Microsoft Agent Framework Explained: Smarter Workflows, Better Tools, Bigger Demo**](https://www.youtube.com/watch?v=kmsArgSWQ4k)
-> *Hands-on look at what’s new in 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐀𝐠𝐞𝐧𝐭 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤*
+<details>
+<summary><b>2025</b> (7 talks)</summary>
 
-**2025** - [**DDD By Night**](https://www.meetup.com/ddd-melbourne-by-night/events/311769987/?slug=ddd-melbourne-by-night&eventId=307706775&isFirstPublish=true)
-> *Evolution of AI Agents*
+- [**New Breakpoint: S5 Ep7 | Microsoft Agent Framework Explained: Smarter Workflows, Better Tools, Bigger Demo**](https://www.youtube.com/watch?v=kmsArgSWQ4k)
+  > *Hands-on look at what's new in Microsoft Agent Framework*
 
-**2025** - [**New Breakpoint: S5 Ep4 | Agents, Orchestration & MCP: Peeking Inside the AI Toolkit**](https://www.youtube.com/watch?v=AAe_8eIvra0)
-> *Exploring AI Agents, Orchestration, and Model Context Protocol (MCP)*
+- [**DDD By Night**](https://www.meetup.com/ddd-melbourne-by-night/events/311769987/?slug=ddd-melbourne-by-night&eventId=307706775&isFirstPublish=true)
+  > *Evolution of AI Agents*
 
-**2025** - [**Melb.NET Meetup: Inside the AI Toolbox**](https://www.meetup.com/melb-net-meetup/events/309998377/?_xtd=gqFyqTE4NjQwNTA2NaFwo2FwaQ%253D%253D&from=ref)
-> *Patterns, Tools, and Guardrails for AI Development*
+- [**New Breakpoint: S5 Ep4 | Agents, Orchestration & MCP: Peeking Inside the AI Toolkit**](https://www.youtube.com/watch?v=AAe_8eIvra0)
+  > *Exploring AI Agents, Orchestration, and Model Context Protocol (MCP)*
 
-**2025** - [**AgentConf 2025: From Bots to Brains**](https://www.linkedin.com/posts/rakeshl_exciting-news-i-am-speaking-at-agentconf-activity-7335443449044717574-a6ft?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATGCL4BrlFisSf0O-XVgatKCoF-DSBRKUU)
-> *Patterns for Building Intelligent AI Agents*
+- [**Melb.NET Meetup: Inside the AI Toolbox**](https://www.meetup.com/melb-net-meetup/events/309998377/?_xtd=gqFyqTE4NjQwNTA2NaFwo2FwaQ%253D%253D&from=ref)
+  > *Patterns, Tools, and Guardrails for AI Development*
 
-**2025** - [**App-in-a-Day Workshop**](https://www.linkedin.com/posts/rakeshl_it-was-an-absolute-pleasure-co-hosting-activity-7312437841798541312-MmWb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATGCL4BrlFisSf0O-XVgatKCoF-DSBRKUU)
-> *Building intelligent applications with the right AI tools*
+- [**AgentConf 2025: From Bots to Brains**](https://www.linkedin.com/posts/rakeshl_exciting-news-i-am-speaking-at-agentconf-activity-7335443449044717574-a6ft?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATGCL4BrlFisSf0O-XVgatKCoF-DSBRKUU)
+  > *Patterns for Building Intelligent AI Agents*
 
-**2025** - [**GitHub Copilot hands-on workshop**](https://www.linkedin.com/posts/activity-7308242420998053888-MDjY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATGCL4BrlFisSf0O-XVgatKCoF-DSBRKUU)
-> *AI-assisted coding using GitHubb Copilot*
+- [**App-in-a-Day Workshop**](https://www.linkedin.com/posts/rakeshl_it-was-an-absolute-pleasure-co-hosting-activity-7312437841798541312-MmWb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATGCL4BrlFisSf0O-XVgatKCoF-DSBRKUU)
+  > *Building intelligent applications with the right AI tools*
+
+- [**GitHub Copilot hands-on workshop**](https://www.linkedin.com/posts/activity-7308242420998053888-MDjY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATGCL4BrlFisSf0O-XVgatKCoF-DSBRKUU)
+  > *AI-assisted coding using GitHub Copilot*
+
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshl4&show_icons=true&theme=default&count_private=true&hide=c" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshl4&show_icons=true&theme=github_dark&count_private=true&hide=c" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshl4&theme=default&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshl4&theme=github_dark&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshl4&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshl4&theme=github-dark-blue" alt="GitHub Streak" />
 </div>
 
 ---
