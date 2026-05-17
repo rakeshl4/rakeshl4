@@ -88,10 +88,16 @@
 
 ### 🌟 Recent Talks
 
-**2026** - [**Melb.NET Meetup: Practical Introduction to the Microsoft Agent Framework**](https://www.meetup.com/melb-net-meetup/events/313598778/?utm_version=v2&member_id=220238397)
+**2026** - [**Microsoft AI Genius 4 | Getting Started with Microsoft Agent Framework: Build Practical AI Agents**](https://developer.microsoft.com/en-us/reactor/events/26935/)
+> *Hands-on introduction to the Microsoft Agent Framework - building practical AI agents that can reason, take actions, and integrate with real systems*
+
+**2026** -  [**Agents That Remember: Designing Memory-Driven AI Systems**](https://www.linkedin.com/posts/rakeshl_agentcamp-perth-agentcamp-ugcPost-7456645631919677440-6BoG/)
+> *Practical workshop on designing memory-driven AI systems - exploring short-term, long-term, episodic, and semantic memory patterns for building agents that maintain context and adapt over time*
+
+**2026** - [**Melb.NET Meetup | Practical Introduction to the Microsoft Agent Framework**](https://www.meetup.com/melb-net-meetup/events/313598778/?utm_version=v2&member_id=220238397)
 > *Building AI agents using the Microsoft Agent Framework - hands-on session with live examples*
 
-**2026** - [**From Bots to Brains: Patterns for Building Intelligent AI Agents**](https://www.linkedin.com/feed/update/urn:li:activity:7430860525347045376/)
+**2026** - [**DDD Melbourne | From Bots to Brains: Patterns for Building Intelligent AI Agents**](https://www.linkedin.com/feed/update/urn:li:activity:7430860525347045376/)
 > *Hands-on workshop on building action-taking AI agents with tools, memory, and goal-oriented thinking*
 
 **2025** - [**New Breakpoint: S5 Ep7 | Microsoft Agent Framework Explained: Smarter Workflows, Better Tools, Bigger Demo**](https://www.youtube.com/watch?v=kmsArgSWQ4k)
